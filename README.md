@@ -1,2 +1,2 @@
 # InventoryProject
-here is project based on ASP.Net Core
+here is project based on ASP.Net Core.
